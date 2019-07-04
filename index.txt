@@ -1,6 +1,6 @@
 Hello This File Edited to Test the Git Working And Push To Remote.
 
-
+----------------------------------------
 git init
 
 git status
@@ -21,6 +21,9 @@ git log
 
 
 -------------------------------------------------------------------------------------------------------------------------------
+This Is The Full Command List For GIT
+
+
 
 /* 
  * Set up your Git configuration 
