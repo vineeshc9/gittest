@@ -1,1 +1,19 @@
 Hello This File Edited to Test the Git Working And Push To Remote.
+
+
+git init
+
+git status
+
+git add .
+
+git commit -m "Message Here"
+
+git log
+
+--- Push To remote-----
+git remote add origin add repository url
+
+git push -u origin master
+
+git log
